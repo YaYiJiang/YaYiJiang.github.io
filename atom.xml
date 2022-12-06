@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>如飞花般绚丽的少女~</title>
+  
+  <subtitle>无暇的刻印</subtitle>
+  <link href="https://yayijiang.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yayijiang.github.io/"/>
+  <updated>2022-12-06T07:10:55.369Z</updated>
+  <id>https://yayijiang.github.io/</id>
+  
+  <author>
+    <name>粉色妖精小姐♪</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>anaconda语法</title>
+    <link href="https://yayijiang.github.io/2022/12/06/anaconda%E8%AF%AD%E6%B3%95/"/>
+    <id>https://yayijiang.github.io/2022/12/06/anaconda%E8%AF%AD%E6%B3%95/</id>
+    <published>2022-12-06T07:10:22.000Z</published>
+    <updated>2022-12-06T07:10:55.369Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>anaconda安装及配置</title>
+    <link href="https://yayijiang.github.io/2022/12/06/anaconda%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE/"/>
+    <id>https://yayijiang.github.io/2022/12/06/anaconda%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE/</id>
+    <published>2022-12-06T05:32:32.000Z</published>
+    <updated>2022-12-06T05:55:13.906Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="anaconda" scheme="https://yayijiang.github.io/tags/anaconda/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hive安装</title>
+    <link href="https://yayijiang.github.io/2022/12/05/hive%E5%AE%89%E8%A3%85/"/>
+    <id>https://yayijiang.github.io/2022/12/05/hive%E5%AE%89%E8%A3%85/</id>
+    <published>2022-12-05T12:11:31.000Z</published>
+    <updated>2022-12-05T12:24:14.160Z</updated>
+    
+    
+    <summary type="html">关于hive采的超级多的坑，最终总结出来的。</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="hive" scheme="https://yayijiang.github.io/tags/hive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hadoop安装</title>
+    <link href="https://yayijiang.github.io/2022/12/05/hadoop%E5%AE%89%E8%A3%85/"/>
+    <id>https://yayijiang.github.io/2022/12/05/hadoop%E5%AE%89%E8%A3%85/</id>
+    <published>2022-12-05T12:11:19.000Z</published>
+    <updated>2022-12-05T12:23:14.012Z</updated>
+    
+    
+    <summary type="html">hadoop,他的坑要比hive多的多的多。</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="hadoop" scheme="https://yayijiang.github.io/tags/hadoop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>页面设置</title>
+    <link href="https://yayijiang.github.io/2022/12/04/%E9%A1%B5%E9%9D%A2%E8%AE%BE%E7%BD%AE/"/>
+    <id>https://yayijiang.github.io/2022/12/04/%E9%A1%B5%E9%9D%A2%E8%AE%BE%E7%BD%AE/</id>
+    <published>2022-12-04T09:56:08.000Z</published>
+    <updated>2022-12-04T10:34:15.076Z</updated>
+    
+    
+    <summary type="html">从主题作者文档copy的,嘿嘿~</summary>
+    
+    
+    
+    <category term="博客设置" scheme="https://yayijiang.github.io/categories/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/"/>
+    
+    
+    <category term="博客设置" scheme="https://yayijiang.github.io/tags/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python爬虫</title>
+    <link href="https://yayijiang.github.io/2022/10/17/Python%E7%88%AC%E8%99%AB/"/>
+    <id>https://yayijiang.github.io/2022/10/17/Python%E7%88%AC%E8%99%AB/</id>
+    <published>2022-10-17T01:56:14.000Z</published>
+    <updated>2022-12-04T10:34:07.822Z</updated>
+    
+    
+    <summary type="html">请不要爬取🐍图！</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL数据库</title>
+    <link href="https://yayijiang.github.io/2022/10/13/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://yayijiang.github.io/2022/10/13/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
+    <published>2022-10-13T10:09:49.000Z</published>
+    <updated>2022-12-04T10:34:00.808Z</updated>
+    
+    
+    <summary type="html">浅学数据库,争取开发+运维</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hive数据仓库</title>
+    <link href="https://yayijiang.github.io/2022/10/10/hive%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/"/>
+    <id>https://yayijiang.github.io/2022/10/10/hive%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/</id>
+    <published>2022-10-10T14:04:29.000Z</published>
+    <updated>2022-12-04T10:33:43.186Z</updated>
+    
+    
+    <summary type="html">大三开的专业课,老师很好，好き~</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git常用命令</title>
+    <link href="https://yayijiang.github.io/2022/10/10/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>https://yayijiang.github.io/2022/10/10/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <published>2022-10-10T14:02:05.000Z</published>
+    <updated>2022-12-04T16:54:00.564Z</updated>
+    
+    
+    <summary type="html">搭博客时了解，以后工作大概会用到...</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+</feed>
