@@ -6,7 +6,7 @@
   <link href="https://yayijiang.github.io/atom.xml" rel="self"/>
   
   <link href="https://yayijiang.github.io/"/>
-  <updated>2022-12-06T07:10:55.369Z</updated>
+  <updated>2023-01-04T15:21:44.584Z</updated>
   <id>https://yayijiang.github.io/</id>
   
   <author>
@@ -17,23 +17,154 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2023年心愿</title>
+    <link href="https://yayijiang.github.io/2023/01/04/2023%E5%B9%B4%E5%BF%83%E6%84%BF/"/>
+    <id>https://yayijiang.github.io/2023/01/04/2023%E5%B9%B4%E5%BF%83%E6%84%BF/</id>
+    <published>2023-01-04T03:43:54.000Z</published>
+    <updated>2023-01-04T15:21:44.584Z</updated>
+    
+    
+    <summary type="html">希望能实现！</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://yayijiang.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="新年愿望" scheme="https://yayijiang.github.io/tags/%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>leetcode刷题</title>
+    <link href="https://yayijiang.github.io/2022/12/30/leetcode%E5%88%B7%E9%A2%98/"/>
+    <id>https://yayijiang.github.io/2022/12/30/leetcode%E5%88%B7%E9%A2%98/</id>
+    <published>2022-12-29T17:27:44.000Z</published>
+    <updated>2023-01-04T11:48:46.319Z</updated>
+    
+    
+    <summary type="html">每天一个小tips</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="刷题小tips" scheme="https://yayijiang.github.io/tags/%E5%88%B7%E9%A2%98%E5%B0%8Ftips/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hbase安装</title>
+    <link href="https://yayijiang.github.io/2022/12/29/hbase%E5%AE%89%E8%A3%85/"/>
+    <id>https://yayijiang.github.io/2022/12/29/hbase%E5%AE%89%E8%A3%85/</id>
+    <published>2022-12-29T03:42:24.000Z</published>
+    <updated>2023-01-04T11:30:07.070Z</updated>
+    
+    
+    <summary type="html">Apache HBase是一个开源的，分布式的，版本化的，非关系数据库。</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="hbase" scheme="https://yayijiang.github.io/tags/hbase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>zookeeper安装</title>
+    <link href="https://yayijiang.github.io/2022/12/29/zookeeper%E5%AE%89%E8%A3%85/"/>
+    <id>https://yayijiang.github.io/2022/12/29/zookeeper%E5%AE%89%E8%A3%85/</id>
+    <published>2022-12-29T03:42:13.000Z</published>
+    <updated>2023-01-04T11:29:56.095Z</updated>
+    
+    
+    <summary type="html">ZooKeeper 是一种集中式服务，用于维护配置信息、命名、提供分布式同步和提供组服务。Hbase依赖于zookeeper集群。</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="hbase" scheme="https://yayijiang.github.io/tags/hbase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ACGNのSongs</title>
+    <link href="https://yayijiang.github.io/2022/12/28/ACGN%E3%81%AESongs/"/>
+    <id>https://yayijiang.github.io/2022/12/28/ACGN%E3%81%AESongs/</id>
+    <published>2022-12-28T06:09:16.000Z</published>
+    <updated>2023-01-04T11:48:53.260Z</updated>
+    
+    
+    <summary type="html">ACG赛高！</summary>
+    
+    
+    
+    <category term="ACG" scheme="https://yayijiang.github.io/categories/ACG/"/>
+    
+    
+    <category term="ACGNのSongs" scheme="https://yayijiang.github.io/tags/ACGN%E3%81%AESongs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>补番日记and追番日记</title>
+    <link href="https://yayijiang.github.io/2022/12/27/%E8%A1%A5%E7%95%AA%E6%97%A5%E8%AE%B0and%E8%BF%BD%E7%95%AA%E6%97%A5%E8%AE%B0/"/>
+    <id>https://yayijiang.github.io/2022/12/27/%E8%A1%A5%E7%95%AA%E6%97%A5%E8%AE%B0and%E8%BF%BD%E7%95%AA%E6%97%A5%E8%AE%B0/</id>
+    <published>2022-12-27T12:59:30.000Z</published>
+    <updated>2023-01-04T11:49:00.301Z</updated>
+    
+    
+    <summary type="html">番怎么补不完啊！</summary>
+    
+    
+    
+    <category term="ACG" scheme="https://yayijiang.github.io/categories/ACG/"/>
+    
+    
+    <category term="补番and追番" scheme="https://yayijiang.github.io/tags/%E8%A1%A5%E7%95%AAand%E8%BF%BD%E7%95%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PythonRe库</title>
+    <link href="https://yayijiang.github.io/2022/12/06/PythonRe%E5%BA%93/"/>
+    <id>https://yayijiang.github.io/2022/12/06/PythonRe%E5%BA%93/</id>
+    <published>2022-12-06T15:30:16.000Z</published>
+    <updated>2022-12-08T08:33:07.146Z</updated>
+    
+    
+    <summary type="html">字符串正则匹配太好用了！</summary>
+    
+    
+    
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Python" scheme="https://yayijiang.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>anaconda语法</title>
     <link href="https://yayijiang.github.io/2022/12/06/anaconda%E8%AF%AD%E6%B3%95/"/>
     <id>https://yayijiang.github.io/2022/12/06/anaconda%E8%AF%AD%E6%B3%95/</id>
     <published>2022-12-06T07:10:22.000Z</published>
-    <updated>2022-12-06T07:10:55.369Z</updated>
+    <updated>2023-01-04T11:29:39.058Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">所谓工具说明书是也~</summary>
     
     
     
+    <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="anaconda" scheme="https://yayijiang.github.io/tags/anaconda/"/>
     
   </entry>
   
@@ -42,16 +173,10 @@
     <link href="https://yayijiang.github.io/2022/12/06/anaconda%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE/"/>
     <id>https://yayijiang.github.io/2022/12/06/anaconda%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE/</id>
     <published>2022-12-06T05:32:32.000Z</published>
-    <updated>2022-12-06T05:55:13.906Z</updated>
+    <updated>2023-01-04T11:29:47.459Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">Conda 是一个在 Windows、macOS 和 Linux 上运行的开源软件包和环境管理系统。嘎嘎好用</summary>
     
     
     
@@ -124,7 +249,7 @@
     <link href="https://yayijiang.github.io/2022/10/17/Python%E7%88%AC%E8%99%AB/"/>
     <id>https://yayijiang.github.io/2022/10/17/Python%E7%88%AC%E8%99%AB/</id>
     <published>2022-10-17T01:56:14.000Z</published>
-    <updated>2022-12-04T10:34:07.822Z</updated>
+    <updated>2022-12-11T01:08:42.983Z</updated>
     
     
     <summary type="html">请不要爬取🐍图！</summary>
@@ -134,7 +259,7 @@
     <category term="学习" scheme="https://yayijiang.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="学习" scheme="https://yayijiang.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="Python" scheme="https://yayijiang.github.io/tags/Python/"/>
     
   </entry>
   
